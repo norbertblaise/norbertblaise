@@ -1,3 +1,15 @@
+<!--
+**norbertblaise/norbertblaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Desk Setup sharing app
+- 🌱 I’m currently learning AI @ Coursera
+- 📫 How to reach me: ...
+- 😄 Pronouns: Whatever you'd like to call me
+- ⚡ Fun fact: F1 is bae
+-->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -56,15 +68,15 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="xd" alt="xd" width="40" height="40"/>&nbsp;
 </div>
-<!--
-**norbertblaise/norbertblaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+---
 
-Here are some ideas to get you started:
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?norbertblaisee&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on Desk Setup sharing app
-- 🌱 I’m currently learning AI @ Coursera
-- 📫 How to reach me: ...
-- 😄 Pronouns: Whatever you'd like to call me
-- ⚡ Fun fact: F1 is bae
--->
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
