@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me:
-I'm Norbert a self taught android & Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda
+I'm Norbert a self taught Android & Flutter Developer |UI/UX Designer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda
 
 - 🔭 I’m currently working as a Mobile Engineer & UX Designer
 - 🌱 I’m currently learning AI @ Coursera
