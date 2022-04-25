@@ -83,5 +83,7 @@ I'm Norbert a self taught android & Flutter Developer <img src="https://media.gi
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on My year As GDSC Lead](https://medium.com/@lukwayi/reflections-on-my-year-as-gdsc-lead-cac60f018e8?source=rss-b7a2897d76df------2)
+- [Jumping off the edge of your comfort zone — My experience launching a DSC](https://medium.com/zero-years-experience/jumping-off-the-edge-of-your-comfort-zone-my-experience-launching-a-dsc-8f10cc0f517e?source=rss-b7a2897d76df------2)
 <!-- BLOG-POST-LIST:END -->
 
