@@ -87,3 +87,6 @@ I'm Norbert a self taught Android & Flutter Developer |UI/UX Designer<img src="h
 - [Jumping off the edge of your comfort zone — My experience launching a DSC](https://medium.com/zero-years-experience/jumping-off-the-edge-of-your-comfort-zone-my-experience-launching-a-dsc-8f10cc0f517e?source=rss-b7a2897d76df------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/norbertblaise"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
